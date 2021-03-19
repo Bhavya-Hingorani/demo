@@ -1,0 +1,16 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,030101,1,In a container there are few crayons. How many crayons are there?,$a$,,,,$10$,$6$,$2$,60,3,,2018.harmeet.kath0da@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- 
+ Since we don't know the exact number of crayons in the container. Let us represent the number of crayons as variable '$a$'",
+text,text,030101,1,In a container there are few crayons. How many crayons are there?,$a$,,,,$5$,$0$,$2$,60,3,,2018.harmeet.kath0da@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- 
+ Since we don't know the exact number of crayons in the container. Let us represent the number of crayons as variable '$a$'",
+text,text,030101,1,In a container there are few crayons. How many crayons are there?,$a$,,,,$2$,$8$,$3$,60,3,,2018.harmeet.kath0da@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- 
+ Since we don't know the exact number of crayons in the container. Let us represent the number of crayons as variable '$a$'",
+text,text,030101,1,In a container there are few crayons. How many crayons are there?,$a$,,,,$1$,$4$,$8$,60,3,,2018.harmeet.kath0da@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- 
+ Since we don't know the exact number of crayons in the container. Let us represent the number of crayons as variable '$a$'",
+text,text,030101,1,In a container there are few crayons. How many crayons are there?,$a$,,,,$9$,$3$,$7$,60,3,,2018.harmeet.kath0da@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- 
+ Since we don't know the exact number of crayons in the container. Let us represent the number of crayons as variable '$a$'",
